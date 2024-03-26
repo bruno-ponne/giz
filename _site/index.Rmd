@@ -1,0 +1,70 @@
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](logo.png){#id .class height=100}
+
+***
+
+## Nossos Serviços
+
+A **GIZ** Consultoria assessora Municípios na transformação de dados e relatórios em diagnósticos e recomendações claras e implementáveis para a **melhoria da qualidade da educação municipal**.
+
+
+  
+  
+
+
+![](pic.png)
+
+
+***
+
+
+## Nosso Consultor
+
+**Bruno Gasparotto Ponne** é Mestre em Políticas Públicas pela Hertie School de Berlim, com experiência em análise de programas governamentais e monitoramento de indicadores. Assessor Parlamentar no Senado Federal com experiência na formulação e tramitação de projetos de lei e na análise de dados para para assessorar legisladores. Na GIZ, Bruno transforma dados em recomendações e ações capazes de mudar a realidade da educação.
+  
+***
+
+## Sobre a GIZ
+
+### História
+
+A GIZ Consultoria surge a partir de algo em comum entre dois amigos: a crença de que a educação é a forma mais poderosa que temos para transformar vidas.
+
+Com mais de 10 anos de experiência no Senado Federal, nosso contato com líderes municipais, nossa pesquisa e análise das mais diversas fontes de dados, percebemos uma infinidade de oportunidades de melhoria para a educação pública.
+
+Inspirados por essas vivências, acreditamos que, com muita dedicação, planejamento e uma boa dose de criatividade é possível oferecer uma educação pública de qualidade às crianças e jovens brasileiros. 
+
+A partir de inúmeras conversas sobre como poderíamos ajudar os municípios a melhorar os seus indicadores educacionais com os recursos possíveis nasce a GIZ, empresa de consultoria e assessoria que busca a excelência nos serviços oferecidos.
+
+Mais do que um trabalho, a GIZ tem um propósito: transformar vidas através da educação. 
+
+
+### Missão
+
+A GIZ Consultoria surge com a missão de oferecer assessoria de excelência para promover uma educação pública de qualidade, por meio do uso de dados, diagnósticos, planos de ação e otimização dos recursos públicos.
+
+### Visão
+
+Nossa visão é ser a empresa número um em assessoria para líderes municipais que buscam construir uma educação pública de qualidade.
+
+### Valores
+
+Nossos valores são a gestão eficiente, a inovação e o zelo pela coisa pública.
+
+***
+
+## Contato
+
+Entre em contato conosco para planejarmos o futuro da educação do seu Município:
+
+Bruno Gasparotto Ponne
+E-mail: bruno.ponne@gizeducacao.com.br
+
+Luciano Nascimento
+E-mail: luciano@gizeducacao.com.br
+
+Telefone para contato: (61) 9 9287-3790
+
